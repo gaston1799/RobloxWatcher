@@ -1,12 +1,12 @@
 {
   "userId": 1306775060,
   "displayName": "SkyLord_VL",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 140403681187145,
+  "jobId": "22189b86-6c5a-4b73-af01-8c177327899e",
+  "join": "roblox://placeId=140403681187145&gameInstanceId=22189b86-6c5a-4b73-af01-8c177327899e",
   "follow": "roblox://followUserId=1306775060",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762068878947
+  "web": "https://www.roblox.com/games/start?placeId=140403681187145&gameInstanceId=22189b86-6c5a-4b73-af01-8c177327899e",
+  "location": "🎃 Pet Simulator 99! 👻",
+  "updatedAt": 1762068908994
 }
