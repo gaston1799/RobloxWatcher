@@ -439,6 +439,30 @@
           return await response.json();
         }
 
+        let hasAttemptedAutoLaunch = false;
+
+        function maybeAutoLaunch(data) {
+          if (hasAttemptedAutoLaunch) {
+            return;
+          }
+
+          const autoParam = params.get('auto') || params.get('autojoin') || '1';
+          const shouldAutoLaunch = autoParam !== '0' && autoParam.toLowerCase() !== 'false';
+          if (!shouldAutoLaunch) {
+            hasAttemptedAutoLaunch = true;
+            return;
+          }
+
+          if (data?.join) {
+            hasAttemptedAutoLaunch = true;
+            try {
+              window.location.replace(data.join);
+            } catch (error) {
+              console.warn('[presence] unable to auto-launch join link', error);
+            }
+          }
+        }
+
         async function refresh(manual = false) {
           clearAlerts();
           if (!manual) {
@@ -448,6 +472,7 @@
             const data = await fetchState();
             lastData = data;
             render(data);
+            maybeAutoLaunch(data);
             setLoading(false);
           } catch (error) {
             setLoading(false);
