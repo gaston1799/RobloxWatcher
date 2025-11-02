@@ -1,12 +1,12 @@
 {
   "userId": 1306775060,
   "displayName": "SkyLord_VL",
-  "status": "in-game",
-  "placeId": 96151237893653,
-  "jobId": "d4a17e59-2274-47d9-86cc-3203803cb1e8",
-  "join": "roblox://placeId=96151237893653&gameInstanceId=d4a17e59-2274-47d9-86cc-3203803cb1e8",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1306775060",
-  "web": "https://www.roblox.com/games/start?placeId=96151237893653&gameInstanceId=d4a17e59-2274-47d9-86cc-3203803cb1e8",
-  "location": "Brainrot Royale 👑",
-  "updatedAt": 1762103136045
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762103196069
 }
