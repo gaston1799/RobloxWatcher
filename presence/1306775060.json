@@ -1,12 +1,12 @@
 {
   "userId": 1306775060,
   "displayName": "SkyLord_VL",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 126884695634066,
+  "jobId": "e3c0ef56-4e60-48db-b8f3-a49b9d317a1a",
+  "join": "roblox://placeId=126884695634066&gameInstanceId=e3c0ef56-4e60-48db-b8f3-a49b9d317a1a",
   "follow": "roblox://followUserId=1306775060",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762071418571
+  "web": "https://www.roblox.com/games/start?placeId=126884695634066&gameInstanceId=e3c0ef56-4e60-48db-b8f3-a49b9d317a1a",
+  "location": "[🦒] Grow a Garden 🌶️",
+  "updatedAt": 1762071448573
 }
