@@ -1,12 +1,12 @@
 {
   "userId": 3524437881,
   "displayName": "Xx_T4GGYxXxIcLeader",
-  "status": "in-game",
-  "placeId": 81703673642464,
-  "jobId": "d8d0519a-4bd7-4bef-9fce-6db958fa380e",
-  "join": "roblox://placeId=81703673642464&gameInstanceId=d8d0519a-4bd7-4bef-9fce-6db958fa380e",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3524437881",
-  "web": "https://www.roblox.com/games/start?placeId=81703673642464&gameInstanceId=d8d0519a-4bd7-4bef-9fce-6db958fa380e",
-  "location": "[NL/BE] Buurthuis ",
-  "updatedAt": 1762378940506
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762379210556
 }
