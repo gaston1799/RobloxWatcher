@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 7041939546,
+  "jobId": "2245c569-c867-46dc-ab38-aed058fc819c",
+  "join": "roblox://placeId=7041939546&gameInstanceId=2245c569-c867-46dc-ab38-aed058fc819c",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762396434505
+  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=2245c569-c867-46dc-ab38-aed058fc819c",
+  "location": "Catalog Avatar Creator",
+  "updatedAt": 1762396464411
 }
