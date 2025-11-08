@@ -1,12 +1,12 @@
 {
   "userId": 3524437881,
   "displayName": "Xx_T4GGYxXxIcLeader",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 89059453310119,
+  "jobId": "b3bc7059-bbc2-4879-a720-4673d30042da",
+  "join": "roblox://placeId=89059453310119&gameInstanceId=b3bc7059-bbc2-4879-a720-4673d30042da",
   "follow": "roblox://followUserId=3524437881",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762592618349
+  "web": "https://www.roblox.com/games/start?placeId=89059453310119&gameInstanceId=b3bc7059-bbc2-4879-a720-4673d30042da",
+  "location": "Nosey Animatronic (Solo Project) [NEW]",
+  "updatedAt": 1762592708378
 }
