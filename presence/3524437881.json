@@ -1,12 +1,12 @@
 {
   "userId": 3524437881,
   "displayName": "Xx_T4GGYxXxIcLeader",
-  "status": "in-game",
-  "placeId": 8963721566,
-  "jobId": "de39c56c-5882-4a46-b913-630520f3f0db",
-  "join": "roblox://placeId=8963721566&gameInstanceId=de39c56c-5882-4a46-b913-630520f3f0db",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3524437881",
-  "web": "https://www.roblox.com/games/start?placeId=8963721566&gameInstanceId=de39c56c-5882-4a46-b913-630520f3f0db",
-  "location": " [V5] Backrooms: Desolation",
-  "updatedAt": 1762634538384
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762634568422
 }
