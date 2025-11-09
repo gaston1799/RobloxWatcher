@@ -1,12 +1,12 @@
 {
   "userId": 7093616470,
   "displayName": "GastonIsDead",
-  "status": "in-game",
-  "placeId": 5712833750,
-  "jobId": "6b245658-39e9-450c-950a-895f5b142328",
-  "join": "roblox://placeId=5712833750&gameInstanceId=6b245658-39e9-450c-950a-895f5b142328",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7093616470",
-  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=6b245658-39e9-450c-950a-895f5b142328",
-  "location": "🎃 Animal Simulator",
-  "updatedAt": 1762657614333
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762657794485
 }
