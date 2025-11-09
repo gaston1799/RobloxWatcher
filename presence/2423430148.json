@@ -1,12 +1,12 @@
 {
   "userId": 2423430148,
   "displayName": "WhosGaston",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 139441508687478,
+  "jobId": "e1456ef3-136e-4dcd-a4eb-2193b56d5d7a",
+  "join": "roblox://placeId=139441508687478&gameInstanceId=e1456ef3-136e-4dcd-a4eb-2193b56d5d7a",
   "follow": "roblox://followUserId=2423430148",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762666496656
+  "web": "https://www.roblox.com/games/start?placeId=139441508687478&gameInstanceId=e1456ef3-136e-4dcd-a4eb-2193b56d5d7a",
+  "location": "Canine Chaos 🐶🥊[ALPHA]",
+  "updatedAt": 1762666526391
 }
