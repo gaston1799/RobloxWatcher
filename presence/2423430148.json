@@ -1,12 +1,12 @@
 {
   "userId": 2423430148,
   "displayName": "WhosGaston",
-  "status": "in-game",
-  "placeId": 122633206460384,
-  "jobId": "d28c4ad6-e195-470a-a570-45277f1a3d45",
-  "join": "roblox://placeId=122633206460384&gameInstanceId=d28c4ad6-e195-470a-a570-45277f1a3d45",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2423430148",
-  "web": "https://www.roblox.com/games/start?placeId=122633206460384&gameInstanceId=d28c4ad6-e195-470a-a570-45277f1a3d45",
-  "location": "2 Player Carry RP",
-  "updatedAt": 1762668836979
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762668897049
 }
