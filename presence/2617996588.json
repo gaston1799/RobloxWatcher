@@ -1,12 +1,12 @@
 {
   "userId": 2617996588,
   "displayName": "quitting",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 3475397644,
+  "jobId": "742862b0-6469-42c2-9102-3ebe5bb6da26",
+  "join": "roblox://placeId=3475397644&gameInstanceId=742862b0-6469-42c2-9102-3ebe5bb6da26",
   "follow": "roblox://followUserId=2617996588",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762650804937
+  "web": "https://www.roblox.com/games/start?placeId=3475397644&gameInstanceId=742862b0-6469-42c2-9102-3ebe5bb6da26",
+  "location": "[🎃] Dragon Adventures 🐉",
+  "updatedAt": 1762650833608
 }
