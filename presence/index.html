@@ -40,6 +40,33 @@
         margin: 0 0 0.25rem;
         font-size: clamp(1.5rem, 2.8vw, 2rem);
       }
+      header.profile {
+        display: flex;
+        gap: 1.5rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .avatar-wrapper {
+        width: 96px;
+        height: 96px;
+        border-radius: 18px;
+        overflow: hidden;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .avatar-wrapper img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .profile-details {
+        flex: 1 1 280px;
+        min-width: 0;
+      }
       p.lead {
         margin: 0;
         color: var(--muted);
@@ -177,12 +204,17 @@
   </head>
   <body>
     <main>
-      <header>
-        <h1 id="title">Roblox Presence</h1>
-        <p id="subtitle" class="lead">Loading the latest session data&hellip;</p>
-        <div id="status-chip" class="status-chip" style="display: none;">
-          <span class="dot"></span>
-          <span id="status-label">Unknown</span>
+      <header class="profile">
+        <div id="avatar-wrapper" class="avatar-wrapper" hidden>
+          <img id="avatar" alt="" hidden loading="lazy" decoding="async" />
+        </div>
+        <div class="profile-details">
+          <h1 id="title">Roblox Presence</h1>
+          <p id="subtitle" class="lead">Loading the latest session data&hellip;</p>
+          <div id="status-chip" class="status-chip" style="display: none;">
+            <span class="dot"></span>
+            <span id="status-label">Unknown</span>
+          </div>
         </div>
       </header>
 
@@ -219,6 +251,9 @@
         const repoOverride = (params.get('repo') || '').trim();
         const ownerOverride = (params.get('owner') || '').trim();
         const dirOverride = (params.get('dir') || '').trim();
+        const closeDelayParam = params.get('closeDelay');
+        const parsedCloseDelay = closeDelayParam === null ? NaN : Number(closeDelayParam);
+        const launchCloseDelay = Number.isFinite(parsedCloseDelay) && parsedCloseDelay >= 0 ? parsedCloseDelay : 2000;
 
         const pathParts = window.location.pathname
           .replace(/\/+$/, '')
@@ -250,6 +285,8 @@
         const statusLabel = document.getElementById('status-label');
         const subtitle = document.getElementById('subtitle');
         const title = document.getElementById('title');
+        const avatarWrapper = document.getElementById('avatar-wrapper');
+        const avatar = document.getElementById('avatar');
         const refreshIndicator = document.getElementById('refresh-rate');
         const refreshButton = document.getElementById('refresh-button');
         const locationRow = document.getElementById('location-row');
@@ -277,6 +314,7 @@
 
         let refreshTimer = null;
         let lastData = null;
+        let closeTimerId = null;
 
         function setLoading(isLoading) {
           loader.style.display = isLoading ? 'block' : 'none';
@@ -293,6 +331,24 @@
         function clearAlerts() {
           alertBox.style.display = 'none';
           infoBox.style.display = 'none';
+        }
+
+        function scheduleWindowClose() {
+          if (closeTimerId !== null) {
+            return;
+          }
+          closeTimerId = window.setTimeout(() => {
+            try {
+              window.close();
+            } catch (error) {
+              console.warn('[presence] unable to close window automatically', error);
+            }
+          }, launchCloseDelay);
+        }
+
+        function announceLaunch() {
+          showAlert('Launching Roblox. This tab will close automatically after the client responds.', false);
+          scheduleWindowClose();
         }
 
         function formatRelative(timestamp) {
@@ -365,12 +421,46 @@
           if (ariaLabel) {
             link.setAttribute('aria-label', ariaLabel);
           }
+          if (primary && /^roblox/i.test(href)) {
+            link.addEventListener('click', () => {
+              announceLaunch();
+            });
+          }
           return link;
         }
 
         function render(data) {
-          const display = data.displayName || `User ${data.userId}`;
-          document.title = `${display} · Roblox Presence`;
+          const userIdValue =
+            data && typeof data.userId !== 'undefined' && data.userId !== null
+              ? String(data.userId).trim()
+              : '';
+          const display =
+            (typeof data.displayName === 'string' && data.displayName.trim()) ||
+            (userIdValue ? `User ${userIdValue}` : 'Roblox Player');
+
+          if (avatar && avatarWrapper) {
+            if (userIdValue) {
+              const params = new URLSearchParams({
+                userId: userIdValue,
+                width: '180',
+                height: '180',
+                format: 'png',
+              });
+              const parsedStamp = Number.parseInt(data?.updatedAt ?? '', 10);
+              const stamp = Number.isFinite(parsedStamp) ? parsedStamp : Date.now();
+              avatarWrapper.hidden = false;
+              avatar.hidden = false;
+              avatar.src = `https://www.roblox.com/headshot-thumbnail/image?${params.toString()}&t=${stamp}`;
+              avatar.alt = `${display} avatar`;
+            } else {
+              avatarWrapper.hidden = true;
+              avatar.hidden = true;
+              avatar.removeAttribute('src');
+              avatar.alt = '';
+            }
+          }
+
+          document.title = `${display} \u00B7 Roblox Presence`;
           title.textContent = display;
           subtitle.textContent = 'Session details updated';
 
@@ -456,6 +546,7 @@
           if (data?.join) {
             hasAttemptedAutoLaunch = true;
             try {
+              announceLaunch();
               window.location.replace(data.join);
             } catch (error) {
               console.warn('[presence] unable to auto-launch join link', error);
@@ -498,3 +589,4 @@
     </script>
   </body>
 </html>
+
