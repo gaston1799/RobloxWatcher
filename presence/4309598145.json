@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 662417684,
+  "jobId": "b7eb949e-dca5-474e-a52f-1b0d14632fcd",
+  "join": "roblox://placeId=662417684&gameInstanceId=b7eb949e-dca5-474e-a52f-1b0d14632fcd",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762782606905
+  "web": "https://www.roblox.com/games/start?placeId=662417684&gameInstanceId=b7eb949e-dca5-474e-a52f-1b0d14632fcd",
+  "location": "❓ LUCKY BLOCKS Battlegrounds",
+  "updatedAt": 1762782636963
 }
