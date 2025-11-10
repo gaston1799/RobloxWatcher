@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 122365779533345,
+  "jobId": "53f2ef07-d8c3-4a65-8108-af99b1a871a5",
+  "join": "roblox://placeId=122365779533345&gameInstanceId=53f2ef07-d8c3-4a65-8108-af99b1a871a5",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762784797479
+  "web": "https://www.roblox.com/games/start?placeId=122365779533345&gameInstanceId=53f2ef07-d8c3-4a65-8108-af99b1a871a5",
+  "location": "Leon's Wall Hop Obby",
+  "updatedAt": 1762784827452
 }
