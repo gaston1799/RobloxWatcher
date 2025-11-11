@@ -1,12 +1,12 @@
 {
   "userId": 3524437881,
   "displayName": "Xx_T4GGYxXxIcLeader",
-  "status": "in-game",
-  "placeId": 5129305072,
-  "jobId": "ef8cad1e-d4f5-400c-ba16-6bf96ae2e0b4",
-  "join": "roblox://placeId=5129305072&gameInstanceId=ef8cad1e-d4f5-400c-ba16-6bf96ae2e0b4",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3524437881",
-  "web": "https://www.roblox.com/games/start?placeId=5129305072&gameInstanceId=ef8cad1e-d4f5-400c-ba16-6bf96ae2e0b4",
-  "location": "Friend Checker",
-  "updatedAt": 1762846987181
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762847046512
 }
