@@ -1,12 +1,12 @@
 {
   "userId": 3383246600,
   "displayName": "PX_ AssassinCROW",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 105555311806207,
+  "jobId": "37c349c1-f0cc-4f4b-a0fd-0d6a874cffe3",
+  "join": "roblox://placeId=105555311806207&gameInstanceId=37c349c1-f0cc-4f4b-a0fd-0d6a874cffe3",
   "follow": "roblox://followUserId=3383246600",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762816199930
+  "web": "https://www.roblox.com/games/start?placeId=105555311806207&gameInstanceId=37c349c1-f0cc-4f4b-a0fd-0d6a874cffe3",
+  "location": "[🔁]Build a Zoo",
+  "updatedAt": 1762829312467
 }
