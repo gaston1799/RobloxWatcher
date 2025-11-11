@@ -1,12 +1,12 @@
 {
   "userId": 31198356,
   "displayName": "umst",
-  "status": "in-game",
-  "placeId": 5712833750,
-  "jobId": "d2a8b23e-d1bc-4404-ba3f-3d9b0a077e0d",
-  "join": "roblox://placeId=5712833750&gameInstanceId=d2a8b23e-d1bc-4404-ba3f-3d9b0a077e0d",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=31198356",
-  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=d2a8b23e-d1bc-4404-ba3f-3d9b0a077e0d",
-  "location": "🎃 Animal Simulator",
-  "updatedAt": 1762819320104
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762819470056
 }
