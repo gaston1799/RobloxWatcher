@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 9872472334,
-  "jobId": "27b257c4-16b3-462b-85c9-8ab00f9c31de",
-  "join": "roblox://placeId=9872472334&gameInstanceId=27b257c4-16b3-462b-85c9-8ab00f9c31de",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=9872472334&gameInstanceId=27b257c4-16b3-462b-85c9-8ab00f9c31de",
-  "location": "💵 Evade 💵",
-  "updatedAt": 1762822350735
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762822830790
 }
