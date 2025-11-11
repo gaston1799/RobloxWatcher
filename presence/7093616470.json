@@ -1,12 +1,12 @@
 {
   "userId": 7093616470,
   "displayName": "GastonIsDead",
-  "status": "in-game",
-  "placeId": 7041939546,
-  "jobId": "b3df4427-33ac-4e35-b941-1cded744c395",
-  "join": "roblox://placeId=7041939546&gameInstanceId=b3df4427-33ac-4e35-b941-1cded744c395",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7093616470",
-  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=b3df4427-33ac-4e35-b941-1cded744c395",
-  "location": "Catalog Avatar Creator",
-  "updatedAt": 1762828532979
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762828622967
 }
