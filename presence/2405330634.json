@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "in-game",
-  "placeId": 120073741652089,
-  "jobId": "3c247492-29c7-45ea-94b6-6b0a3177320a",
-  "join": "roblox://placeId=120073741652089&gameInstanceId=3c247492-29c7-45ea-94b6-6b0a3177320a",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2405330634",
-  "web": "https://www.roblox.com/games/start?placeId=120073741652089&gameInstanceId=3c247492-29c7-45ea-94b6-6b0a3177320a",
-  "location": "Hunting Season [BETA]",
-  "updatedAt": 1762888948341
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762889218585
 }
