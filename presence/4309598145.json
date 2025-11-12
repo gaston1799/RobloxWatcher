@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 131716211654599,
-  "jobId": "4f4964fd-0bbf-4d17-b819-f13283fc1955",
-  "join": "roblox://placeId=131716211654599&gameInstanceId=4f4964fd-0bbf-4d17-b819-f13283fc1955",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=131716211654599&gameInstanceId=4f4964fd-0bbf-4d17-b819-f13283fc1955",
-  "location": "Fisch 🐉 [LEVIATHAN]",
-  "updatedAt": 1762912053079
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1762912173117
 }
