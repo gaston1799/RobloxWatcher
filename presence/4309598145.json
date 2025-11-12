@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 104174149721374,
+  "jobId": "be35801a-b4a6-464b-9aa7-ab2139e37952",
+  "join": "roblox://placeId=104174149721374&gameInstanceId=be35801a-b4a6-464b-9aa7-ab2139e37952",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762943980364
+  "web": "https://www.roblox.com/games/start?placeId=104174149721374&gameInstanceId=be35801a-b4a6-464b-9aa7-ab2139e37952",
+  "location": "[RELEASE] Wall Hop 1000 Studs ",
+  "updatedAt": 1762944040386
 }
