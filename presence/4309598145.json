@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 83312952548612,
+  "jobId": "f5c06058-b901-4a68-be51-dd17d13b6e80",
+  "join": "roblox://placeId=83312952548612&gameInstanceId=f5c06058-b901-4a68-be51-dd17d13b6e80",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1762958593823
+  "web": "https://www.roblox.com/games/start?placeId=83312952548612&gameInstanceId=f5c06058-b901-4a68-be51-dd17d13b6e80",
+  "location": "Troll is a pinning tower 2",
+  "updatedAt": 1762958623817
 }
