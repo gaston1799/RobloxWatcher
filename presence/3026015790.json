@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 7041939546,
+  "jobId": "01704c45-edb1-49d0-9215-c7cfa11825ac",
+  "join": "roblox://placeId=7041939546&gameInstanceId=01704c45-edb1-49d0-9215-c7cfa11825ac",
   "follow": "roblox://followUserId=3026015790",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763039567014
+  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=01704c45-edb1-49d0-9215-c7cfa11825ac",
+  "location": "Catalog Avatar Creator",
+  "updatedAt": 1763039686953
 }
