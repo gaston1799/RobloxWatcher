@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 105692451124462,
-  "jobId": "16dc9778-66e0-475f-8570-400f9f8e8da6",
-  "join": "roblox://placeId=105692451124462&gameInstanceId=16dc9778-66e0-475f-8570-400f9f8e8da6",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=105692451124462&gameInstanceId=16dc9778-66e0-475f-8570-400f9f8e8da6",
-  "location": "Troll Bomb Tower 💣",
-  "updatedAt": 1763036925360
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763037015367
 }
