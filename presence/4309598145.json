@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 137987263937629,
-  "jobId": "8d7f4dd2-8790-4bdd-99a9-aa9ab6f8e427",
-  "join": "roblox://placeId=137987263937629&gameInstanceId=8d7f4dd2-8790-4bdd-99a9-aa9ab6f8e427",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=137987263937629&gameInstanceId=8d7f4dd2-8790-4bdd-99a9-aa9ab6f8e427",
-  "location": "Slap Wall Hop Tower [CHEAP PRICES]",
-  "updatedAt": 1763035455036
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763036895333
 }
