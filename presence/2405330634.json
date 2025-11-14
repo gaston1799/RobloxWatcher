@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "in-game",
-  "placeId": 111434027714006,
-  "jobId": "0dadf9e9-2648-4bf1-9ced-9d6749d1a9cb",
-  "join": "roblox://placeId=111434027714006&gameInstanceId=0dadf9e9-2648-4bf1-9ced-9d6749d1a9cb",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2405330634",
-  "web": "https://www.roblox.com/games/start?placeId=111434027714006&gameInstanceId=0dadf9e9-2648-4bf1-9ced-9d6749d1a9cb",
-  "location": "item asylum",
-  "updatedAt": 1763127139801
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763127529072
 }
