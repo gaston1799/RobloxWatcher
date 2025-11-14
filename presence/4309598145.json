@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 91828212665207,
-  "jobId": "de15a7ac-de1d-4b1c-b032-016f58263efb",
-  "join": "roblox://placeId=91828212665207&gameInstanceId=de15a7ac-de1d-4b1c-b032-016f58263efb",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=91828212665207&gameInstanceId=de15a7ac-de1d-4b1c-b032-016f58263efb",
-  "location": "[NEW] +1 Stud Wall Hop Obby ✨",
-  "updatedAt": 1763126028455
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763126268516
 }
