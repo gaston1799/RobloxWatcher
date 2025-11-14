@@ -1,12 +1,12 @@
 {
   "userId": 2617996588,
   "displayName": "quitting",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 6516141723,
+  "jobId": "028bc07e-0537-448f-92f4-dfefc4a60409",
+  "join": "roblox://placeId=6516141723&gameInstanceId=028bc07e-0537-448f-92f4-dfefc4a60409",
   "follow": "roblox://followUserId=2617996588",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763110395882
+  "web": "https://www.roblox.com/games/start?placeId=6516141723&gameInstanceId=028bc07e-0537-448f-92f4-dfefc4a60409",
+  "location": "DOORS 👁️",
+  "updatedAt": 1763110425920
 }
