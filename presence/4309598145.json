@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 125009265613167,
-  "jobId": "b3b17b71-82c4-4e9c-8722-6fff396e9e35",
-  "join": "roblox://placeId=125009265613167&gameInstanceId=b3b17b71-82c4-4e9c-8722-6fff396e9e35",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=125009265613167&gameInstanceId=b3b17b71-82c4-4e9c-8722-6fff396e9e35",
-  "location": "[🎃] Ink Game ",
-  "updatedAt": 1763126748631
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763127168728
 }
