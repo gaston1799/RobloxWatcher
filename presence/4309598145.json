@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 137191716753997,
+  "jobId": "dccfcf3f-59c7-4f0b-9c10-8279ee4e5175",
+  "join": "roblox://placeId=137191716753997&gameInstanceId=dccfcf3f-59c7-4f0b-9c10-8279ee4e5175",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763083277531
+  "web": "https://www.roblox.com/games/start?placeId=137191716753997&gameInstanceId=dccfcf3f-59c7-4f0b-9c10-8279ee4e5175",
+  "location": "Wallhop & Ladder Flicks",
+  "updatedAt": 1763083307502
 }
