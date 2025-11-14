@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 12842348067,
+  "jobId": "bbfd84a5-f845-49c2-8b18-338afe6c9810",
+  "join": "roblox://placeId=12842348067&gameInstanceId=bbfd84a5-f845-49c2-8b18-338afe6c9810",
   "follow": "roblox://followUserId=2405330634",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763129540336
+  "web": "https://www.roblox.com/games/start?placeId=12842348067&gameInstanceId=bbfd84a5-f845-49c2-8b18-338afe6c9810",
+  "location": "Stand Power",
+  "updatedAt": 1763132180250
 }
