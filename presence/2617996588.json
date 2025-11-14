@@ -1,12 +1,12 @@
 {
   "userId": 2617996588,
   "displayName": "quitting",
-  "status": "in-game",
-  "placeId": 4310463616,
-  "jobId": "4af6d419-f730-4a10-95a6-ea6d2840f6f1",
-  "join": "roblox://placeId=4310463616&gameInstanceId=4af6d419-f730-4a10-95a6-ea6d2840f6f1",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2617996588",
-  "web": "https://www.roblox.com/games/start?placeId=4310463616&gameInstanceId=4af6d419-f730-4a10-95a6-ea6d2840f6f1",
-  "location": "World // Zero ⚔️ Anime RPG",
-  "updatedAt": 1763111716273
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763111806258
 }
