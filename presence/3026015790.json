@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 13694675435,
+  "jobId": "5f26049b-a59f-4627-ac27-9aa0ac48f41d",
+  "join": "roblox://placeId=13694675435&gameInstanceId=5f26049b-a59f-4627-ac27-9aa0ac48f41d",
   "follow": "roblox://followUserId=3026015790",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763166322479
+  "web": "https://www.roblox.com/games/start?placeId=13694675435&gameInstanceId=5f26049b-a59f-4627-ac27-9aa0ac48f41d",
+  "location": "Animals Capture The Flag",
+  "updatedAt": 1763166382637
 }
