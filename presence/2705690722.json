@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 93729973089151,
+  "jobId": "9f10d5b8-416c-4dd1-a41b-a9e61df82ede",
+  "join": "roblox://placeId=93729973089151&gameInstanceId=9f10d5b8-416c-4dd1-a41b-a9e61df82ede",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763196736316
+  "web": "https://www.roblox.com/games/start?placeId=93729973089151&gameInstanceId=9f10d5b8-416c-4dd1-a41b-a9e61df82ede",
+  "location": "🔍Mindlock: Escape Room",
+  "updatedAt": 1763196916326
 }
