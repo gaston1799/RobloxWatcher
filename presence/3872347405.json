@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "in-game",
-  "placeId": 105352795362105,
-  "jobId": "441f09a9-08b8-479d-8949-ac205cd51e93",
-  "join": "roblox://placeId=105352795362105&gameInstanceId=441f09a9-08b8-479d-8949-ac205cd51e93",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3872347405",
-  "web": "https://www.roblox.com/games/start?placeId=105352795362105&gameInstanceId=441f09a9-08b8-479d-8949-ac205cd51e93",
-  "location": "[SAKURA🌸] Grass Cutters",
-  "updatedAt": 1763239194864
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763239224938
 }
