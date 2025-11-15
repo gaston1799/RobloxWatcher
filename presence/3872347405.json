@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "in-game",
-  "placeId": 103889808775700,
-  "jobId": "50895eb6-b464-4a79-9571-b75648d8a9c9",
-  "join": "roblox://placeId=103889808775700&gameInstanceId=50895eb6-b464-4a79-9571-b75648d8a9c9",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3872347405",
-  "web": "https://www.roblox.com/games/start?placeId=103889808775700&gameInstanceId=50895eb6-b464-4a79-9571-b75648d8a9c9",
-  "location": "🌿 Cut Grass!",
-  "updatedAt": 1763238774756
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763239014830
 }
