@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 110534366663508,
+  "jobId": "0fc57f4b-32ab-4f34-b947-bdd95d3523f9",
+  "join": "roblox://placeId=110534366663508&gameInstanceId=0fc57f4b-32ab-4f34-b947-bdd95d3523f9",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763197696531
+  "web": "https://www.roblox.com/games/start?placeId=110534366663508&gameInstanceId=0fc57f4b-32ab-4f34-b947-bdd95d3523f9",
+  "location": "My Worm [2 Player Obby]",
+  "updatedAt": 1763197726709
 }
