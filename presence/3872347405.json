@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 120038828993910,
+  "jobId": "972b15bb-b0c3-464f-b202-42128f16ad11",
+  "join": "roblox://placeId=120038828993910&gameInstanceId=972b15bb-b0c3-464f-b202-42128f16ad11",
   "follow": "roblox://followUserId=3872347405",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763240065118
+  "web": "https://www.roblox.com/games/start?placeId=120038828993910&gameInstanceId=972b15bb-b0c3-464f-b202-42128f16ad11",
+  "location": "Catchy [🍂] Rare Pets",
+  "updatedAt": 1763240095120
 }
