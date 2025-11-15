@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 86264385704555,
+  "jobId": "297da4b9-133f-43c0-a442-f713c289f06c",
+  "join": "roblox://placeId=86264385704555&gameInstanceId=297da4b9-133f-43c0-a442-f713c289f06c",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763194605927
+  "web": "https://www.roblox.com/games/start?placeId=86264385704555&gameInstanceId=297da4b9-133f-43c0-a442-f713c289f06c",
+  "location": "⚠️ Clean A Crime Scene",
+  "updatedAt": 1763194725951
 }
