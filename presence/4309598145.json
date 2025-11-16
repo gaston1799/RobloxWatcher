@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 9285238704,
+  "jobId": "ca6097b2-c9b9-4f78-a877-015beec118d6",
+  "join": "roblox://placeId=9285238704&gameInstanceId=ca6097b2-c9b9-4f78-a877-015beec118d6",
   "follow": "roblox://followUserId=4309598145",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763284985345
+  "web": "https://www.roblox.com/games/start?placeId=9285238704&gameInstanceId=ca6097b2-c9b9-4f78-a877-015beec118d6",
+  "location": "⚡Race Clicker",
+  "updatedAt": 1763285015354
 }
