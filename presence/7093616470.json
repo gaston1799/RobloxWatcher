@@ -1,12 +1,12 @@
 {
   "userId": 7093616470,
   "displayName": "GastonIsDead",
-  "status": "in-game",
-  "placeId": 135856908115931,
-  "jobId": "e6c4c3eb-adeb-4aa5-bcd8-650210a859c3",
-  "join": "roblox://placeId=135856908115931&gameInstanceId=e6c4c3eb-adeb-4aa5-bcd8-650210a859c3",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7093616470",
-  "web": "https://www.roblox.com/games/start?placeId=135856908115931&gameInstanceId=e6c4c3eb-adeb-4aa5-bcd8-650210a859c3",
-  "location": "[🎃DUELS] Murderers VS Sheriffs",
-  "updatedAt": 1763329872958
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763329902978
 }
