@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "in-game",
-  "placeId": 126509999114328,
-  "jobId": "dc0eb341-b479-4b5d-bf31-076017fc0a27",
-  "join": "roblox://placeId=126509999114328&gameInstanceId=dc0eb341-b479-4b5d-bf31-076017fc0a27",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2705690722",
-  "web": "https://www.roblox.com/games/start?placeId=126509999114328&gameInstanceId=dc0eb341-b479-4b5d-bf31-076017fc0a27",
-  "location": "[💔] 99 Nights in the Forest 🔦",
-  "updatedAt": 1763310901549
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763313601956
 }
