@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 112887704339862,
+  "jobId": "52353ab3-6d6c-4d11-842d-cfb50a9e8491",
+  "join": "roblox://placeId=112887704339862&gameInstanceId=52353ab3-6d6c-4d11-842d-cfb50a9e8491",
   "follow": "roblox://followUserId=2405330634",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763318477718
+  "web": "https://www.roblox.com/games/start?placeId=112887704339862&gameInstanceId=52353ab3-6d6c-4d11-842d-cfb50a9e8491",
+  "location": "Soccoro [ALPHA]",
+  "updatedAt": 1763323363336
 }
