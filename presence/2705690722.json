@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 89597299598186,
+  "jobId": "b7c091a1-7db2-42d9-be78-c46914856f09",
+  "join": "roblox://placeId=89597299598186&gameInstanceId=b7c091a1-7db2-42d9-be78-c46914856f09",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763278174935
+  "web": "https://www.roblox.com/games/start?placeId=89597299598186&gameInstanceId=b7c091a1-7db2-42d9-be78-c46914856f09",
+  "location": "Disaster Janitor 🧽",
+  "updatedAt": 1763278264955
 }
