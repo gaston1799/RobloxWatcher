@@ -1,12 +1,12 @@
 {
   "userId": 655287574,
   "displayName": "SleepyAtelo",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 7041939546,
+  "jobId": "245a9100-cd46-44d0-bedc-efeb659af77f",
+  "join": "roblox://placeId=7041939546&gameInstanceId=245a9100-cd46-44d0-bedc-efeb659af77f",
   "follow": "roblox://followUserId=655287574",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763321773111
+  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=245a9100-cd46-44d0-bedc-efeb659af77f",
+  "location": "Catalog Avatar Creator",
+  "updatedAt": 1763322493294
 }
