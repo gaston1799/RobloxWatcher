@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 10959918411,
+  "jobId": "263ded46-8992-4fb5-9bb1-1d75c33f1d30",
+  "join": "roblox://placeId=10959918411&gameInstanceId=263ded46-8992-4fb5-9bb1-1d75c33f1d30",
   "follow": "roblox://followUserId=8078846359",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763306261537
+  "web": "https://www.roblox.com/games/start?placeId=10959918411&gameInstanceId=263ded46-8992-4fb5-9bb1-1d75c33f1d30",
+  "location": "Studio Lite",
+  "updatedAt": 1763308860657
 }
