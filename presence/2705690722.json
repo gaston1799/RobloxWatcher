@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "in-game",
-  "placeId": 108772269317636,
-  "jobId": "64883433-8467-48f4-a37d-4b300c68befa",
-  "join": "roblox://placeId=108772269317636&gameInstanceId=64883433-8467-48f4-a37d-4b300c68befa",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2705690722",
-  "web": "https://www.roblox.com/games/start?placeId=108772269317636&gameInstanceId=64883433-8467-48f4-a37d-4b300c68befa",
-  "location": "Blockies [2-3-4-5 Player Obby] ",
-  "updatedAt": 1763383543203
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763383933277
 }
