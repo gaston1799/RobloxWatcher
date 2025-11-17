@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "in-game",
-  "placeId": 606849621,
-  "jobId": "8ba4e8c1-9ddb-451c-a80b-498ca0e78ade",
-  "join": "roblox://placeId=606849621&gameInstanceId=8ba4e8c1-9ddb-451c-a80b-498ca0e78ade",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2405330634",
-  "web": "https://www.roblox.com/games/start?placeId=606849621&gameInstanceId=8ba4e8c1-9ddb-451c-a80b-498ca0e78ade",
-  "location": "[🚁 Military] Jailbreak ",
-  "updatedAt": 1763394015921
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763394616078
 }
