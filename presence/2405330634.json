@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 12495498157,
+  "jobId": "cbe55264-dc42-49c3-930e-83a0da091b35",
+  "join": "roblox://placeId=12495498157&gameInstanceId=cbe55264-dc42-49c3-930e-83a0da091b35",
   "follow": "roblox://followUserId=2405330634",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763393805920
+  "web": "https://www.roblox.com/games/start?placeId=12495498157&gameInstanceId=cbe55264-dc42-49c3-930e-83a0da091b35",
+  "location": "[Five Nights At Freddy's] FNAF: Co-op",
+  "updatedAt": 1763393925839
 }
