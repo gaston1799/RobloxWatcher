@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "in-game",
-  "placeId": 4924922222,
-  "jobId": "c761c5f8-2321-472f-b66a-7cc4b967bde0",
-  "join": "roblox://placeId=4924922222&gameInstanceId=c761c5f8-2321-472f-b66a-7cc4b967bde0",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3026015790",
-  "web": "https://www.roblox.com/games/start?placeId=4924922222&gameInstanceId=c761c5f8-2321-472f-b66a-7cc4b967bde0",
-  "location": "Brookhaven 🏡RP",
-  "updatedAt": 1763353716320
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763356026824
 }
