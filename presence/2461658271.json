@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "in-game",
-  "placeId": 110532253792994,
-  "jobId": "6b3ba032-afe9-41f1-934f-20e6897fff5e",
-  "join": "roblox://placeId=110532253792994&gameInstanceId=6b3ba032-afe9-41f1-934f-20e6897fff5e",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2461658271",
-  "web": "https://www.roblox.com/games/start?placeId=110532253792994&gameInstanceId=6b3ba032-afe9-41f1-934f-20e6897fff5e",
-  "location": "[🍀OGs ONLY] Steal A Brainrots: OGs ONLY + ADMIN🔥",
-  "updatedAt": 1763373430452
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763373490555
 }
