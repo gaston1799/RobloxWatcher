@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "in-game",
-  "placeId": 4972091010,
-  "jobId": "e2c90153-08e9-400d-bf5e-21ecc7f83e68",
-  "join": "roblox://placeId=4972091010&gameInstanceId=e2c90153-08e9-400d-bf5e-21ecc7f83e68",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8315231560",
-  "web": "https://www.roblox.com/games/start?placeId=4972091010&gameInstanceId=e2c90153-08e9-400d-bf5e-21ecc7f83e68",
-  "location": "Zombie Uprising",
-  "updatedAt": 1763343454215
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763344534481
 }
