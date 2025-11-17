@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 9872472334,
+  "jobId": "5c1c449d-d860-45b1-9164-495225819a6a",
+  "join": "roblox://placeId=9872472334&gameInstanceId=5c1c449d-d860-45b1-9164-495225819a6a",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763372140185
+  "web": "https://www.roblox.com/games/start?placeId=9872472334&gameInstanceId=5c1c449d-d860-45b1-9164-495225819a6a",
+  "location": "💵 Evade 💵",
+  "updatedAt": 1763372170100
 }
