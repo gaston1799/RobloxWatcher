@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "in-game",
-  "placeId": 18687417158,
-  "jobId": "d2ce45df-c833-4d00-9446-e4c4dad364df",
-  "join": "roblox://placeId=18687417158&gameInstanceId=d2ce45df-c833-4d00-9446-e4c4dad364df",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3026015790",
-  "web": "https://www.roblox.com/games/start?placeId=18687417158&gameInstanceId=d2ce45df-c833-4d00-9446-e4c4dad364df",
-  "location": "Forsaken",
-  "updatedAt": 1763349548623
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763352997345
 }
