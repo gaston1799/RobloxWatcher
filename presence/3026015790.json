@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "in-game",
-  "placeId": 10841255049,
-  "jobId": "4c8a7903-f479-4929-8418-de5e9fce9590",
-  "join": "roblox://placeId=10841255049&gameInstanceId=4c8a7903-f479-4929-8418-de5e9fce9590",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3026015790",
-  "web": "https://www.roblox.com/games/start?placeId=10841255049&gameInstanceId=4c8a7903-f479-4929-8418-de5e9fce9590",
-  "location": "The WaterOut Obby! 🌊🎈",
-  "updatedAt": 1763437420994
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763438561420
 }
