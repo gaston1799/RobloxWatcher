@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "in-game",
-  "placeId": 120038828993910,
-  "jobId": "700603af-f985-4124-b283-0244f280ab27",
-  "join": "roblox://placeId=120038828993910&gameInstanceId=700603af-f985-4124-b283-0244f280ab27",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3872347405",
-  "web": "https://www.roblox.com/games/start?placeId=120038828993910&gameInstanceId=700603af-f985-4124-b283-0244f280ab27",
-  "location": "Catchy [🍂]",
-  "updatedAt": 1763458514618
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763458544623
 }
