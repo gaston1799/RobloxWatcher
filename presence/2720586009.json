@@ -1,12 +1,12 @@
 {
   "userId": 2720586009,
   "displayName": "xXIW_Maz1keenXx",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 126884695634066,
+  "jobId": "d4d043e0-e578-4c0b-90e4-fc1474bd19be",
+  "join": "roblox://placeId=126884695634066&gameInstanceId=d4d043e0-e578-4c0b-90e4-fc1474bd19be",
   "follow": "roblox://followUserId=2720586009",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763437931827
+  "web": "https://www.roblox.com/games/start?placeId=126884695634066&gameInstanceId=d4d043e0-e578-4c0b-90e4-fc1474bd19be",
+  "location": "[🎍] Grow a Garden 🌶️",
+  "updatedAt": 1763437960581
 }
