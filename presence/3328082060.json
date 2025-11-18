@@ -1,12 +1,12 @@
 {
   "userId": 3328082060,
   "displayName": "ParadoxGhoul",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 3475397644,
+  "jobId": "b5777df5-7191-4e31-bbf8-0e68a4d166a5",
+  "join": "roblox://placeId=3475397644&gameInstanceId=b5777df5-7191-4e31-bbf8-0e68a4d166a5",
   "follow": "roblox://followUserId=3328082060",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763484292564
+  "web": "https://www.roblox.com/games/start?placeId=3475397644&gameInstanceId=b5777df5-7191-4e31-bbf8-0e68a4d166a5",
+  "location": "[GUILD WARS] ⚔️ Dragon Adventures 🐉",
+  "updatedAt": 1763484321286
 }
