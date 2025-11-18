@@ -1,12 +1,12 @@
 {
   "userId": 3383246600,
   "displayName": "PX_ AssassinCROW",
-  "status": "in-game",
-  "placeId": 128963148353888,
-  "jobId": "ffd6bca1-2459-4ea2-a368-d39c72abad2d",
-  "join": "roblox://placeId=128963148353888&gameInstanceId=ffd6bca1-2459-4ea2-a368-d39c72abad2d",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3383246600",
-  "web": "https://www.roblox.com/games/start?placeId=128963148353888&gameInstanceId=ffd6bca1-2459-4ea2-a368-d39c72abad2d",
-  "location": "Sea of Pirates 🏴‍☠️",
-  "updatedAt": 1763457524415
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763459234800
 }
