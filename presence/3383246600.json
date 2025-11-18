@@ -1,12 +1,12 @@
 {
   "userId": 3383246600,
   "displayName": "PX_ AssassinCROW",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 18172550962,
+  "jobId": "c8e0351f-5ad4-48b6-9cc7-5f3b95071e6e",
+  "join": "roblox://placeId=18172550962&gameInstanceId=c8e0351f-5ad4-48b6-9cc7-5f3b95071e6e",
   "follow": "roblox://followUserId=3383246600",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763459264823
+  "web": "https://www.roblox.com/games/start?placeId=18172550962&gameInstanceId=c8e0351f-5ad4-48b6-9cc7-5f3b95071e6e",
+  "location": "Pixel Blade",
+  "updatedAt": 1763459294824
 }
