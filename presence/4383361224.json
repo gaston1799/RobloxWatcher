@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "in-game",
-  "placeId": 106809703371658,
-  "jobId": "c36296d6-89d8-4dc2-b946-171bbfe228c3",
-  "join": "roblox://placeId=106809703371658&gameInstanceId=c36296d6-89d8-4dc2-b946-171bbfe228c3",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4383361224",
-  "web": "https://www.roblox.com/games/start?placeId=106809703371658&gameInstanceId=c36296d6-89d8-4dc2-b946-171bbfe228c3",
-  "location": "[🎵] Project : RUSHER",
-  "updatedAt": 1763465207310
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763465299765
 }
