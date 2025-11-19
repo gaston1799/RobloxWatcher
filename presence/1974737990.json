@@ -1,12 +1,12 @@
 {
   "userId": 1974737990,
   "displayName": "Paradox",
-  "status": "in-game",
-  "placeId": 5712833750,
-  "jobId": "ab41149e-f12e-4307-83ed-7aacabcd27f6",
-  "join": "roblox://placeId=5712833750&gameInstanceId=ab41149e-f12e-4307-83ed-7aacabcd27f6",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1974737990",
-  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=ab41149e-f12e-4307-83ed-7aacabcd27f6",
-  "location": "🎃 Animal Simulator",
-  "updatedAt": 1763515360566
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763515419454
 }
