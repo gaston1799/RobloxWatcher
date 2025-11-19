@@ -1,12 +1,12 @@
 {
   "userId": 1974737990,
   "displayName": "Paradox",
-  "status": "in-game",
-  "placeId": 7041939546,
-  "jobId": "aa4a7b8c-eb20-4af6-8d24-150a6e52faa9",
-  "join": "roblox://placeId=7041939546&gameInstanceId=aa4a7b8c-eb20-4af6-8d24-150a6e52faa9",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1974737990",
-  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=aa4a7b8c-eb20-4af6-8d24-150a6e52faa9",
-  "location": "Catalog Avatar Creator",
-  "updatedAt": 1763530992886
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763531022781
 }
