@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 81505130631572,
+  "jobId": "83ef19c9-b0d3-4098-ab36-a6c7bef1f21a",
+  "join": "roblox://placeId=81505130631572&gameInstanceId=83ef19c9-b0d3-4098-ab36-a6c7bef1f21a",
   "follow": "roblox://followUserId=4383361224",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763561390261
+  "web": "https://www.roblox.com/games/start?placeId=81505130631572&gameInstanceId=83ef19c9-b0d3-4098-ab36-a6c7bef1f21a",
+  "location": "[DATA SAVING] FACEPAINTING! UGC CREATOR 🖌️",
+  "updatedAt": 1763561481314
 }
