@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 10449761463,
-  "jobId": "d469c493-a38b-4b84-8e9f-eba9263ec117",
-  "join": "roblox://placeId=10449761463&gameInstanceId=d469c493-a38b-4b84-8e9f-eba9263ec117",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=10449761463&gameInstanceId=d469c493-a38b-4b84-8e9f-eba9263ec117",
-  "location": "The Strongest Battlegrounds",
-  "updatedAt": 1763515958747
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763516048756
 }
