@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "in-game",
-  "placeId": 104715542330896,
-  "jobId": "4f01721d-cfe6-46ef-97e5-a151c03ec9e8",
-  "join": "roblox://placeId=104715542330896&gameInstanceId=4f01721d-cfe6-46ef-97e5-a151c03ec9e8",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2461658271",
-  "web": "https://www.roblox.com/games/start?placeId=104715542330896&gameInstanceId=4f01721d-cfe6-46ef-97e5-a151c03ec9e8",
-  "location": "BlockSpin 🔪",
-  "updatedAt": 1763596214240
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763596244432
 }
