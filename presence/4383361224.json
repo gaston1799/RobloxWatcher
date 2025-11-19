@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 112114621008524,
+  "jobId": "76cb3dbe-5389-45fd-a601-54da750f6f09",
+  "join": "roblox://placeId=112114621008524&gameInstanceId=76cb3dbe-5389-45fd-a601-54da750f6f09",
   "follow": "roblox://followUserId=4383361224",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763561241479
+  "web": "https://www.roblox.com/games/start?placeId=112114621008524&gameInstanceId=76cb3dbe-5389-45fd-a601-54da750f6f09",
+  "location": "[DECALS] UGC Creator 🎨",
+  "updatedAt": 1763561330305
 }
