@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "in-game",
-  "placeId": 108533757090220,
-  "jobId": "8a5bc45b-ff91-40ef-8cb0-9d85797e026d",
-  "join": "roblox://placeId=108533757090220&gameInstanceId=8a5bc45b-ff91-40ef-8cb0-9d85797e026d",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7307790469",
-  "web": "https://www.roblox.com/games/start?placeId=108533757090220&gameInstanceId=8a5bc45b-ff91-40ef-8cb0-9d85797e026d",
-  "location": "[😱] Garden Tower Defense 🌻",
-  "updatedAt": 1763522591072
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763522680889
 }
