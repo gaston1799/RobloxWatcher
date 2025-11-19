@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "in-game",
-  "placeId": 4448566543,
-  "jobId": "a82f73f3-6ee3-4453-8ae0-5a93b19644a2",
-  "join": "roblox://placeId=4448566543&gameInstanceId=a82f73f3-6ee3-4453-8ae0-5a93b19644a2",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2705690722",
-  "web": "https://www.roblox.com/games/start?placeId=4448566543&gameInstanceId=a82f73f3-6ee3-4453-8ae0-5a93b19644a2",
-  "location": "[🍎] Banana Eats",
-  "updatedAt": 1763595644165
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763596634362
 }
