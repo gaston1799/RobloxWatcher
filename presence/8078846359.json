@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 135856908115931,
+  "jobId": "4a214307-949a-43ee-88d0-615fd36a7fdb",
+  "join": "roblox://placeId=135856908115931&gameInstanceId=4a214307-949a-43ee-88d0-615fd36a7fdb",
   "follow": "roblox://followUserId=8078846359",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763563070738
+  "web": "https://www.roblox.com/games/start?placeId=135856908115931&gameInstanceId=4a214307-949a-43ee-88d0-615fd36a7fdb",
+  "location": "[🎃DUELS] Murderers VS Sheriffs",
+  "updatedAt": 1763563100888
 }
