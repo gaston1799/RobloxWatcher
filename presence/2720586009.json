@@ -1,12 +1,12 @@
 {
   "userId": 2720586009,
   "displayName": "xXIW_Maz1keenXx",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 104074872972372,
+  "jobId": "fece0459-63f9-45c7-86a0-910120e04f1d",
+  "join": "roblox://placeId=104074872972372&gameInstanceId=fece0459-63f9-45c7-86a0-910120e04f1d",
   "follow": "roblox://followUserId=2720586009",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763520579804
+  "web": "https://www.roblox.com/games/start?placeId=104074872972372&gameInstanceId=fece0459-63f9-45c7-86a0-910120e04f1d",
+  "location": "Cat and Mouse [2 Player Obby]",
+  "updatedAt": 1763520609982
 }
