@@ -1,12 +1,12 @@
 {
   "userId": 1974737990,
   "displayName": "Paradox",
-  "status": "in-game",
-  "placeId": 136162036182779,
-  "jobId": "345b5609-748a-403c-8296-72a1416ff01f",
-  "join": "roblox://placeId=136162036182779&gameInstanceId=345b5609-748a-403c-8296-72a1416ff01f",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1974737990",
-  "web": "https://www.roblox.com/games/start?placeId=136162036182779&gameInstanceId=345b5609-748a-403c-8296-72a1416ff01f",
-  "location": "German Voice",
-  "updatedAt": 1763631172335
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763631952511
 }
