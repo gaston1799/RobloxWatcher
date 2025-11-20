@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 113578100991194,
+  "jobId": "3f8d5fa8-1499-4628-a196-7ac2d9936f32",
+  "join": "roblox://placeId=113578100991194&gameInstanceId=3f8d5fa8-1499-4628-a196-7ac2d9936f32",
   "follow": "roblox://followUserId=4383361224",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763643988571
+  "web": "https://www.roblox.com/games/start?placeId=113578100991194&gameInstanceId=3f8d5fa8-1499-4628-a196-7ac2d9936f32",
+  "location": "Baddies + Tryhard Outfits 🌟",
+  "updatedAt": 1763644076225
 }
