@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "in-game",
-  "placeId": 18984776765,
-  "jobId": "be2bfe83-e75c-4ff1-85a2-0d18e7bf1569",
-  "join": "roblox://placeId=18984776765&gameInstanceId=be2bfe83-e75c-4ff1-85a2-0d18e7bf1569",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4383361224",
-  "web": "https://www.roblox.com/games/start?placeId=18984776765&gameInstanceId=be2bfe83-e75c-4ff1-85a2-0d18e7bf1569",
-  "location": "[♨️] NEOHEE HOT SPRING",
-  "updatedAt": 1763624690908
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763625230913
 }
