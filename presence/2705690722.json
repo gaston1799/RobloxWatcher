@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 4972091010,
+  "jobId": "e99ae2dc-9ce9-439f-b9a1-cdb07cdd72e9",
+  "join": "roblox://placeId=4972091010&gameInstanceId=e99ae2dc-9ce9-439f-b9a1-cdb07cdd72e9",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763600925700
+  "web": "https://www.roblox.com/games/start?placeId=4972091010&gameInstanceId=e99ae2dc-9ce9-439f-b9a1-cdb07cdd72e9",
+  "location": "Zombie Uprising",
+  "updatedAt": 1763602426972
 }
