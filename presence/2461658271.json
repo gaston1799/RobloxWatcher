@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 122826953758426,
+  "jobId": "45afcc20-be8d-4d83-bebe-a9dcf6820beb",
+  "join": "roblox://placeId=122826953758426&gameInstanceId=45afcc20-be8d-4d83-bebe-a9dcf6820beb",
   "follow": "roblox://followUserId=2461658271",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763612328014
+  "web": "https://www.roblox.com/games/start?placeId=122826953758426&gameInstanceId=45afcc20-be8d-4d83-bebe-a9dcf6820beb",
+  "location": "[🏜️] Raise Animals",
+  "updatedAt": 1763612357767
 }
