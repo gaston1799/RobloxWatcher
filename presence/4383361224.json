@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "in-game",
-  "placeId": 139228461244816,
-  "jobId": "d46a1f58-297f-473c-a832-6c61bee9a28e",
-  "join": "roblox://placeId=139228461244816&gameInstanceId=d46a1f58-297f-473c-a832-6c61bee9a28e",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4383361224",
-  "web": "https://www.roblox.com/games/start?placeId=139228461244816&gameInstanceId=d46a1f58-297f-473c-a832-6c61bee9a28e",
-  "location": "[DAILY ITEMS] Design UGC! ✨",
-  "updatedAt": 1763604256206
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763604316136
 }
