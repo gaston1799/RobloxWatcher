@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 139733286702777,
-  "jobId": "f9919c3f-7cb3-4422-af36-b29010550473",
-  "join": "roblox://placeId=139733286702777&gameInstanceId=f9919c3f-7cb3-4422-af36-b29010550473",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=139733286702777&gameInstanceId=f9919c3f-7cb3-4422-af36-b29010550473",
-  "location": "Strawberry Tower",
-  "updatedAt": 1763597804899
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763597835738
 }
