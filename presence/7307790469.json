@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 31490825,
+  "jobId": "401d0cba-1112-4d61-99c2-81bcbf19c55d",
+  "join": "roblox://placeId=31490825&gameInstanceId=401d0cba-1112-4d61-99c2-81bcbf19c55d",
   "follow": "roblox://followUserId=7307790469",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763614608539
+  "web": "https://www.roblox.com/games/start?placeId=31490825&gameInstanceId=401d0cba-1112-4d61-99c2-81bcbf19c55d",
+  "location": "Warfare Tycoon",
+  "updatedAt": 1763614728553
 }
