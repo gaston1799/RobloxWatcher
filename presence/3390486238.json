@@ -1,12 +1,12 @@
 {
   "userId": 3390486238,
   "displayName": "KAOsxAKT_Kitkatalt2",
-  "status": "in-game",
-  "placeId": 9872472334,
-  "jobId": "b64594c7-bcff-44f0-87e8-4987e9b18b94",
-  "join": "roblox://placeId=9872472334&gameInstanceId=b64594c7-bcff-44f0-87e8-4987e9b18b94",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3390486238",
-  "web": "https://www.roblox.com/games/start?placeId=9872472334&gameInstanceId=b64594c7-bcff-44f0-87e8-4987e9b18b94",
-  "location": "💵 Evade 💵",
-  "updatedAt": 1763596574271
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763596844492
 }
