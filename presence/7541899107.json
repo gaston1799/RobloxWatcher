@@ -2,11 +2,11 @@
   "userId": 7541899107,
   "displayName": "TheGlitchQueen",
   "status": "in-game",
-  "placeId": 119689727784858,
-  "jobId": "53d7bcd8-6d95-4fa8-b9fd-2184217d6667",
-  "join": "roblox://placeId=119689727784858&gameInstanceId=53d7bcd8-6d95-4fa8-b9fd-2184217d6667",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7541899107",
-  "web": "https://www.roblox.com/games/start?placeId=119689727784858&gameInstanceId=53d7bcd8-6d95-4fa8-b9fd-2184217d6667",
-  "location": "[🗼HIGHRISE🗼] Climbing Game",
-  "updatedAt": 1763655898188
+  "web": null,
+  "location": "In game",
+  "updatedAt": 1763655928250
 }
