@@ -1,12 +1,12 @@
 {
   "userId": 7758704135,
   "displayName": "PC_OnixAlt",
-  "status": "in-game",
-  "placeId": 7117492592,
-  "jobId": "97e614f5-1c29-4e23-99cc-91e4c8e5c5f3",
-  "join": "roblox://placeId=7117492592&gameInstanceId=97e614f5-1c29-4e23-99cc-91e4c8e5c5f3",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7758704135",
-  "web": "https://www.roblox.com/games/start?placeId=7117492592&gameInstanceId=97e614f5-1c29-4e23-99cc-91e4c8e5c5f3",
-  "location": "Realistic Hand RP 🖐🤏 Without VR",
-  "updatedAt": 1763620402232
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763620581379
 }
