@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "in-game",
-  "placeId": 126509999114328,
-  "jobId": "dceb212c-c150-4a81-9b60-f7dac7b548e2",
-  "join": "roblox://placeId=126509999114328&gameInstanceId=dceb212c-c150-4a81-9b60-f7dac7b548e2",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7307790469",
-  "web": "https://www.roblox.com/games/start?placeId=126509999114328&gameInstanceId=dceb212c-c150-4a81-9b60-f7dac7b548e2",
-  "location": "[💔] 99 Nights in the Forest 🔦",
-  "updatedAt": 1763610409437
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763611280118
 }
