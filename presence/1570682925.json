@@ -1,12 +1,12 @@
 {
   "userId": 1570682925,
   "displayName": "ParadoxGhoul",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 5712833750,
+  "jobId": "ba1c89c8-0da4-45be-ae6f-06b13a79c8e5",
+  "join": "roblox://placeId=5712833750&gameInstanceId=ba1c89c8-0da4-45be-ae6f-06b13a79c8e5",
   "follow": "roblox://followUserId=1570682925",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763613319350
+  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=ba1c89c8-0da4-45be-ae6f-06b13a79c8e5",
+  "location": "🎃 Animal Simulator",
+  "updatedAt": 1763613588201
 }
