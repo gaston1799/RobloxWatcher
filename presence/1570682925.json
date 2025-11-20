@@ -1,12 +1,12 @@
 {
   "userId": 1570682925,
   "displayName": "ParadoxGhoul",
-  "status": "in-game",
-  "placeId": 8737602449,
-  "jobId": "de8c6d3e-bfd1-404b-becf-3c3acf104b5d",
-  "join": "roblox://placeId=8737602449&gameInstanceId=de8c6d3e-bfd1-404b-becf-3c3acf104b5d",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1570682925",
-  "web": "https://www.roblox.com/games/start?placeId=8737602449&gameInstanceId=de8c6d3e-bfd1-404b-becf-3c3acf104b5d",
-  "location": "PLS DONATE 💸",
-  "updatedAt": 1763666610697
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763667632089
 }
