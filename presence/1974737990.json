@@ -1,12 +1,12 @@
 {
   "userId": 1974737990,
   "displayName": "Paradox",
-  "status": "in-game",
-  "placeId": 13772394625,
-  "jobId": "c9fa6458-92d8-4e4e-8dfc-6d8e4328b113",
-  "join": "roblox://placeId=13772394625&gameInstanceId=c9fa6458-92d8-4e4e-8dfc-6d8e4328b113",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=1974737990",
-  "web": "https://www.roblox.com/games/start?placeId=13772394625&gameInstanceId=c9fa6458-92d8-4e4e-8dfc-6d8e4328b113",
-  "location": "Blade Ball",
-  "updatedAt": 1763643715195
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763643926672
 }
