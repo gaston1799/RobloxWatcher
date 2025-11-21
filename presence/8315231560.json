@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 113380129609386,
+  "jobId": "18e0191e-a19b-454c-bbdb-5a7ff951fbc5",
+  "join": "roblox://placeId=113380129609386&gameInstanceId=18e0191e-a19b-454c-bbdb-5a7ff951fbc5",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763759882540
+  "web": "https://www.roblox.com/games/start?placeId=113380129609386&gameInstanceId=18e0191e-a19b-454c-bbdb-5a7ff951fbc5",
+  "location": "[RELEASE] Leaves Incremental 🍂",
+  "updatedAt": 1763759912429
 }
