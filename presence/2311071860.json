@@ -1,12 +1,12 @@
 {
   "userId": 2311071860,
   "displayName": "IW_Shdw",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 79189799490564,
+  "jobId": "76240778-889c-47ef-a3f2-691248d135cd",
+  "join": "roblox://placeId=79189799490564&gameInstanceId=76240778-889c-47ef-a3f2-691248d135cd",
   "follow": "roblox://followUserId=2311071860",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763744472724
+  "web": "https://www.roblox.com/games/start?placeId=79189799490564&gameInstanceId=76240778-889c-47ef-a3f2-691248d135cd",
+  "location": "[ UPDATE 1 ] Anime Weapons",
+  "updatedAt": 1763744502631
 }
