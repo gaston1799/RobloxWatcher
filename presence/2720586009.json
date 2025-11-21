@@ -1,12 +1,12 @@
 {
   "userId": 2720586009,
   "displayName": "xXIW_Maz1keenXx",
-  "status": "in-game",
-  "placeId": 7041939546,
-  "jobId": "1ab1ddca-4e01-466f-8a57-63acc7bb9337",
-  "join": "roblox://placeId=7041939546&gameInstanceId=1ab1ddca-4e01-466f-8a57-63acc7bb9337",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2720586009",
-  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=1ab1ddca-4e01-466f-8a57-63acc7bb9337",
-  "location": "Catalog Avatar Creator",
-  "updatedAt": 1763758321514
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763758501608
 }
