@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "in-game",
-  "placeId": 5104202731,
-  "jobId": "afa84a1b-d297-4656-b043-4bebbe42300b",
-  "join": "roblox://placeId=5104202731&gameInstanceId=afa84a1b-d297-4656-b043-4bebbe42300b",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7307790469",
-  "web": "https://www.roblox.com/games/start?placeId=5104202731&gameInstanceId=afa84a1b-d297-4656-b043-4bebbe42300b",
-  "location": "[UPDATE] Southwest Florida Beta",
-  "updatedAt": 1763761082841
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763761654273
 }
