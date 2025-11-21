@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 189707,
+  "jobId": "cdcd42a4-8253-4948-89dc-979269b7ddc1",
+  "join": "roblox://placeId=189707&gameInstanceId=cdcd42a4-8253-4948-89dc-979269b7ddc1",
   "follow": "roblox://followUserId=8078846359",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763696251395
+  "web": "https://www.roblox.com/games/start?placeId=189707&gameInstanceId=cdcd42a4-8253-4948-89dc-979269b7ddc1",
+  "location": "Natural Disaster Survival",
+  "updatedAt": 1763696823392
 }
