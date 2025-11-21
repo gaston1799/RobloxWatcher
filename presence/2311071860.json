@@ -1,12 +1,12 @@
 {
   "userId": 2311071860,
   "displayName": "IW_Shdw",
-  "status": "in-game",
-  "placeId": 79189799490564,
-  "jobId": "ea539145-e3ee-448e-a617-d94ebb16c1fc",
-  "join": "roblox://placeId=79189799490564&gameInstanceId=ea539145-e3ee-448e-a617-d94ebb16c1fc",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2311071860",
-  "web": "https://www.roblox.com/games/start?placeId=79189799490564&gameInstanceId=ea539145-e3ee-448e-a617-d94ebb16c1fc",
-  "location": "[ RELEASE PT3 ] Anime Weapons",
-  "updatedAt": 1763709339853
+  "web": null,
+  "location": "Offline",
+  "updatedAt": 1763710025824
 }
