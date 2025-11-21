@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "in-game",
-  "placeId": 18780328320,
-  "jobId": "0ddad49a-1c7a-4f0c-a2b4-91ce801b6bc5",
-  "join": "roblox://placeId=18780328320&gameInstanceId=0ddad49a-1c7a-4f0c-a2b4-91ce801b6bc5",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3026015790",
-  "web": "https://www.roblox.com/games/start?placeId=18780328320&gameInstanceId=0ddad49a-1c7a-4f0c-a2b4-91ce801b6bc5",
-  "location": "[🦖] Anime Punch",
-  "updatedAt": 1763753810183
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763753900151
 }
