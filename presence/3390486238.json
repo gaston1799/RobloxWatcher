@@ -1,12 +1,12 @@
 {
   "userId": 3390486238,
   "displayName": "KAOsxAKT_Kitkatalt2",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 12090482034,
+  "jobId": "7a86575b-48fe-4b42-b7b0-a40384e1a91a",
+  "join": "roblox://placeId=12090482034&gameInstanceId=7a86575b-48fe-4b42-b7b0-a40384e1a91a",
   "follow": "roblox://followUserId=3390486238",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763694450847
+  "web": "https://www.roblox.com/games/start?placeId=12090482034&gameInstanceId=7a86575b-48fe-4b42-b7b0-a40384e1a91a",
+  "location": "Escape Baby Bobby Daycare! (FIRST PERSON OBBY)",
+  "updatedAt": 1763694481006
 }
