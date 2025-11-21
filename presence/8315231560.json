@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "in-game",
-  "placeId": 79189799490564,
-  "jobId": "77bf31b8-90b9-4d1f-af86-4a99a432e177",
-  "join": "roblox://placeId=79189799490564&gameInstanceId=77bf31b8-90b9-4d1f-af86-4a99a432e177",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8315231560",
-  "web": "https://www.roblox.com/games/start?placeId=79189799490564&gameInstanceId=77bf31b8-90b9-4d1f-af86-4a99a432e177",
-  "location": "[ UPDATE 1 ] Anime Weapons",
-  "updatedAt": 1763767355210
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763768195524
 }
