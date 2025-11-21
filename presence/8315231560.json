@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 123638582555543,
+  "jobId": "852464e8-3172-43ca-b762-c34b242f67e5",
+  "join": "roblox://placeId=123638582555543&gameInstanceId=852464e8-3172-43ca-b762-c34b242f67e5",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763767145069
+  "web": "https://www.roblox.com/games/start?placeId=123638582555543&gameInstanceId=852464e8-3172-43ca-b762-c34b242f67e5",
+  "location": "[SOLO] Anime Fight",
+  "updatedAt": 1763767177998
 }
