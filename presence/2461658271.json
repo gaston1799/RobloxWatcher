@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "in-game",
-  "placeId": 126509999114328,
-  "jobId": "f1fefa89-bbcf-49f2-97bb-b3aac12f0608",
-  "join": "roblox://placeId=126509999114328&gameInstanceId=f1fefa89-bbcf-49f2-97bb-b3aac12f0608",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2461658271",
-  "web": "https://www.roblox.com/games/start?placeId=126509999114328&gameInstanceId=f1fefa89-bbcf-49f2-97bb-b3aac12f0608",
-  "location": "[🦇] 99 Nights in the Forest 🔦",
-  "updatedAt": 1763850090035
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763850240054
 }
