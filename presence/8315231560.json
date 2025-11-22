@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 5233782396,
+  "jobId": "cecf3ea8-a0e1-47b8-b8cc-48ec72924165",
+  "join": "roblox://placeId=5233782396&gameInstanceId=cecf3ea8-a0e1-47b8-b8cc-48ec72924165",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763844088637
+  "web": "https://www.roblox.com/games/start?placeId=5233782396&gameInstanceId=cecf3ea8-a0e1-47b8-b8cc-48ec72924165",
+  "location": "🐲 Creatures of Sonaria ✨ Survive Kaiju Animals",
+  "updatedAt": 1763844119946
 }
