@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "in-game",
-  "placeId": 80184918744223,
-  "jobId": "b261f2e0-f14c-4163-b157-bf2b44f3dc0a",
-  "join": "roblox://placeId=80184918744223&gameInstanceId=b261f2e0-f14c-4163-b157-bf2b44f3dc0a",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8315231560",
-  "web": "https://www.roblox.com/games/start?placeId=80184918744223&gameInstanceId=b261f2e0-f14c-4163-b157-bf2b44f3dc0a",
-  "location": "[❄️UPD 1❄️] Button Eternal",
-  "updatedAt": 1763844238693
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763844268813
 }
