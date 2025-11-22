@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 3663340706,
+  "jobId": "e5bfda2d-6359-4b9e-88e9-41c593b78c21",
+  "join": "roblox://placeId=3663340706&gameInstanceId=e5bfda2d-6359-4b9e-88e9-41c593b78c21",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763853930887
+  "web": "https://www.roblox.com/games/start?placeId=3663340706&gameInstanceId=e5bfda2d-6359-4b9e-88e9-41c593b78c21",
+  "location": "Warrior Cats: Ultimate Edition",
+  "updatedAt": 1763853960910
 }
