@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "in-game",
-  "placeId": 109983668079237,
-  "jobId": "2feed97d-9b2e-461b-a1c9-c807685c87db",
-  "join": "roblox://placeId=109983668079237&gameInstanceId=2feed97d-9b2e-461b-a1c9-c807685c87db",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2461658271",
-  "web": "https://www.roblox.com/games/start?placeId=109983668079237&gameInstanceId=2feed97d-9b2e-461b-a1c9-c807685c87db",
-  "location": "[SOON] Steal a Brainrot",
-  "updatedAt": 1763839977928
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763840037943
 }
