@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 127742093697776,
+  "jobId": "3b81e2a2-abb1-46ec-9f04-efa2ba99d742",
+  "join": "roblox://placeId=127742093697776&gameInstanceId=3b81e2a2-abb1-46ec-9f04-efa2ba99d742",
   "follow": "roblox://followUserId=7307790469",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763805259867
+  "web": "https://www.roblox.com/games/start?placeId=127742093697776&gameInstanceId=3b81e2a2-abb1-46ec-9f04-efa2ba99d742",
+  "location": "[SOON] Plants Vs Brainrots 🌻",
+  "updatedAt": 1763805529799
 }
