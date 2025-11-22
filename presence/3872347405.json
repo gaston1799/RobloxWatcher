@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 106062443102422,
+  "jobId": "35559a4d-44e1-4f1d-807a-277432f27717",
+  "join": "roblox://placeId=106062443102422&gameInstanceId=35559a4d-44e1-4f1d-807a-277432f27717",
   "follow": "roblox://followUserId=3872347405",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763849098799
+  "web": "https://www.roblox.com/games/start?placeId=106062443102422&gameInstanceId=35559a4d-44e1-4f1d-807a-277432f27717",
+  "location": " Fur Infection Outbreak",
+  "updatedAt": 1763849248877
 }
