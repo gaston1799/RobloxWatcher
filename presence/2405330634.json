@@ -1,12 +1,12 @@
 {
   "userId": 2405330634,
   "displayName": "emiryokus07",
-  "status": "in-game",
-  "placeId": 5712833750,
-  "jobId": "08ec28e7-bab9-454b-9df4-01b3f7cccb16",
-  "join": "roblox://placeId=5712833750&gameInstanceId=08ec28e7-bab9-454b-9df4-01b3f7cccb16",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2405330634",
-  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=08ec28e7-bab9-454b-9df4-01b3f7cccb16",
-  "location": "🎃 Animal Simulator",
-  "updatedAt": 1763838747640
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763838927774
 }
