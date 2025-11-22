@@ -1,12 +1,12 @@
 {
   "userId": 3872347405,
   "displayName": "IW_Altz",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 126884695634066,
+  "jobId": "68854208-31c8-45b3-91a6-94641488e000",
+  "join": "roblox://placeId=126884695634066&gameInstanceId=68854208-31c8-45b3-91a6-94641488e000",
   "follow": "roblox://followUserId=3872347405",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763796136850
+  "web": "https://www.roblox.com/games/start?placeId=126884695634066&gameInstanceId=68854208-31c8-45b3-91a6-94641488e000",
+  "location": "[⏳] Grow a Garden 🌶️",
+  "updatedAt": 1763796196850
 }
