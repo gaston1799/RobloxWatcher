@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 7041939546,
+  "jobId": "f5bb7141-5653-4842-8ce7-c6aa7f91a010",
+  "join": "roblox://placeId=7041939546&gameInstanceId=f5bb7141-5653-4842-8ce7-c6aa7f91a010",
   "follow": "roblox://followUserId=8078846359",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763779717895
+  "web": "https://www.roblox.com/games/start?placeId=7041939546&gameInstanceId=f5bb7141-5653-4842-8ce7-c6aa7f91a010",
+  "location": "Catalog Avatar Creator",
+  "updatedAt": 1763780109401
 }
