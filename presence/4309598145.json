@@ -1,12 +1,12 @@
 {
   "userId": 4309598145,
   "displayName": "Fear_ALONE",
-  "status": "in-game",
-  "placeId": 4442272183,
-  "jobId": "253b5dd1-74ed-4a94-9a30-ea2807a98b43",
-  "join": "roblox://placeId=4442272183&gameInstanceId=253b5dd1-74ed-4a94-9a30-ea2807a98b43",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=4309598145",
-  "web": "https://www.roblox.com/games/start?placeId=4442272183&gameInstanceId=253b5dd1-74ed-4a94-9a30-ea2807a98b43",
-  "location": "[🐯TIGER] Blox Fruits",
-  "updatedAt": 1763778666717
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763780977215
 }
