@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "in-game",
-  "placeId": 120073741652089,
-  "jobId": "e870c4aa-f5f1-4883-9587-b83635ad3ad5",
-  "join": "roblox://placeId=120073741652089&gameInstanceId=e870c4aa-f5f1-4883-9587-b83635ad3ad5",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7307790469",
-  "web": "https://www.roblox.com/games/start?placeId=120073741652089&gameInstanceId=e870c4aa-f5f1-4883-9587-b83635ad3ad5",
-  "location": "Hunting Season [BETA]",
-  "updatedAt": 1763846699332
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763850390066
 }
