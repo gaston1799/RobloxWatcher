@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 93978595733734,
+  "jobId": "f1b0f4ef-426b-4abf-8ab2-7c8114c9a861",
+  "join": "roblox://placeId=93978595733734&gameInstanceId=f1b0f4ef-426b-4abf-8ab2-7c8114c9a861",
   "follow": "roblox://followUserId=4383361224",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763874035056
+  "web": "https://www.roblox.com/games/start?placeId=93978595733734&gameInstanceId=f1b0f4ef-426b-4abf-8ab2-7c8114c9a861",
+  "location": "[2x KILLER EXP] Violence District",
+  "updatedAt": 1763874096611
 }
