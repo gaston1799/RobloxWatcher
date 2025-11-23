@@ -1,12 +1,12 @@
 {
   "userId": 2461658271,
   "displayName": "Bay_Xit",
-  "status": "in-game",
-  "placeId": 127742093697776,
-  "jobId": "65f1a3e2-72e2-46ca-bda8-0b93b80e4688",
-  "join": "roblox://placeId=127742093697776&gameInstanceId=65f1a3e2-72e2-46ca-bda8-0b93b80e4688",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2461658271",
-  "web": "https://www.roblox.com/games/start?placeId=127742093697776&gameInstanceId=65f1a3e2-72e2-46ca-bda8-0b93b80e4688",
-  "location": "[🏆] Plants Vs Brainrots 🌻",
-  "updatedAt": 1763878929422
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763879377043
 }
