@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 73926381261962,
+  "jobId": "e6d62bbc-9c5b-4ebc-91fc-4a306f836928",
+  "join": "roblox://placeId=73926381261962&gameInstanceId=e6d62bbc-9c5b-4ebc-91fc-4a306f836928",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763922591388
+  "web": "https://www.roblox.com/games/start?placeId=73926381261962&gameInstanceId=e6d62bbc-9c5b-4ebc-91fc-4a306f836928",
+  "location": "minion sad story revenge bullied cry",
+  "updatedAt": 1763922706725
 }
