@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 87502415959554,
+  "jobId": "306117bb-4dcf-4528-8a0d-35088db32c27",
+  "join": "roblox://placeId=87502415959554&gameInstanceId=306117bb-4dcf-4528-8a0d-35088db32c27",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763897650632
+  "web": "https://www.roblox.com/games/start?placeId=87502415959554&gameInstanceId=306117bb-4dcf-4528-8a0d-35088db32c27",
+  "location": "Power Generation Incremental",
+  "updatedAt": 1763897680404
 }
