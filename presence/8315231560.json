@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "in-game",
-  "placeId": 131160231364316,
-  "jobId": "65c29d7d-0867-4e7e-93e1-d72204e13377",
-  "join": "roblox://placeId=131160231364316&gameInstanceId=65c29d7d-0867-4e7e-93e1-d72204e13377",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8315231560",
-  "web": "https://www.roblox.com/games/start?placeId=131160231364316&gameInstanceId=65c29d7d-0867-4e7e-93e1-d72204e13377",
-  "location": "[CHANEL]💃TOD",
-  "updatedAt": 1763915115034
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763915175039
 }
