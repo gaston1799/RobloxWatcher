@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "unknown",
-  "placeId": 6560363541,
+  "status": "offline",
+  "placeId": null,
   "jobId": null,
   "join": null,
   "follow": "roblox://followUserId=7307790469",
   "web": null,
-  "location": "Studio - Classic Baseplate",
-  "updatedAt": 1763891379046
+  "location": "Website",
+  "updatedAt": 1763893390088
 }
