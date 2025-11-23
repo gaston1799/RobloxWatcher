@@ -1,12 +1,12 @@
 {
   "userId": 5683626646,
   "displayName": "UNKOWN",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 96017656548489,
+  "jobId": "21aada31-9cb7-4b03-b000-307305f65dc1",
+  "join": "roblox://placeId=96017656548489&gameInstanceId=21aada31-9cb7-4b03-b000-307305f65dc1",
   "follow": "roblox://followUserId=5683626646",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763919796215
+  "web": "https://www.roblox.com/games/start?placeId=96017656548489&gameInstanceId=21aada31-9cb7-4b03-b000-307305f65dc1",
+  "location": "Ban or Get Banned 🔨",
+  "updatedAt": 1763919826048
 }
