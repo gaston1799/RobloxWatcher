@@ -1,12 +1,12 @@
 {
   "userId": 2705690722,
   "displayName": "Cam",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 2971329387,
+  "jobId": "79546d21-3849-473e-90aa-2705df16db77",
+  "join": "roblox://placeId=2971329387&gameInstanceId=79546d21-3849-473e-90aa-2705df16db77",
   "follow": "roblox://followUserId=2705690722",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763921146131
+  "web": "https://www.roblox.com/games/start?placeId=2971329387&gameInstanceId=79546d21-3849-473e-90aa-2705df16db77",
+  "location": "Cook Burgers",
+  "updatedAt": 1763921446232
 }
