@@ -1,12 +1,12 @@
 {
   "userId": 7307790469,
   "displayName": "GHOST",
-  "status": "in-game",
-  "placeId": 292439477,
-  "jobId": "8630524b-fccb-44d2-aa17-dd0f5d8dce92",
-  "join": "roblox://placeId=292439477&gameInstanceId=8630524b-fccb-44d2-aa17-dd0f5d8dce92",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7307790469",
-  "web": "https://www.roblox.com/games/start?placeId=292439477&gameInstanceId=8630524b-fccb-44d2-aa17-dd0f5d8dce92",
-  "location": "Phantom Forces",
-  "updatedAt": 1763878626664
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763879016750
 }
