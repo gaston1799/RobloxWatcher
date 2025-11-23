@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "in-game",
-  "placeId": 1554960397,
-  "jobId": "facd2709-11f0-4e23-b9f2-c65c6ad5d98b",
-  "join": "roblox://placeId=1554960397&gameInstanceId=facd2709-11f0-4e23-b9f2-c65c6ad5d98b",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8315231560",
-  "web": "https://www.roblox.com/games/start?placeId=1554960397&gameInstanceId=facd2709-11f0-4e23-b9f2-c65c6ad5d98b",
-  "location": "🏁 NEW SEASON! Car Dealership Tycoon",
-  "updatedAt": 1763900260958
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763900471096
 }
