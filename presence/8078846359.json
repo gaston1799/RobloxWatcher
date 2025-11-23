@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 4924922222,
-  "jobId": "196741fb-4b6a-4619-ab5b-b22756f11fd2",
-  "join": "roblox://placeId=4924922222&gameInstanceId=196741fb-4b6a-4619-ab5b-b22756f11fd2",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=4924922222&gameInstanceId=196741fb-4b6a-4619-ab5b-b22756f11fd2",
-  "location": "Brookhaven 🏡RP",
-  "updatedAt": 1763938250354
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763938520252
 }
