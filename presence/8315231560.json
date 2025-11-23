@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 14475792710,
+  "jobId": "8526ee55-083e-4927-809f-097b2e69776e",
+  "join": "roblox://placeId=14475792710&gameInstanceId=8526ee55-083e-4927-809f-097b2e69776e",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763900201037
+  "web": "https://www.roblox.com/games/start?placeId=14475792710&gameInstanceId=8526ee55-083e-4927-809f-097b2e69776e",
+  "location": "[CARS] Dealership Tycoon 🏎️",
+  "updatedAt": 1763900231011
 }
