@@ -1,12 +1,12 @@
 {
   "userId": 3390486238,
   "displayName": "KAOsxAKT_Kitkatalt2",
-  "status": "in-game",
-  "placeId": 8481844229,
-  "jobId": "d9fc6356-8a43-4ebe-917c-31684e13e2fe",
-  "join": "roblox://placeId=8481844229&gameInstanceId=d9fc6356-8a43-4ebe-917c-31684e13e2fe",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=3390486238",
-  "web": "https://www.roblox.com/games/start?placeId=8481844229&gameInstanceId=d9fc6356-8a43-4ebe-917c-31684e13e2fe",
-  "location": "Berry Avenue 🏠 RP",
-  "updatedAt": 1763903381592
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763903891766
 }
