@@ -1,12 +1,12 @@
 {
   "userId": 8315231560,
   "displayName": "YZ_ISoloAli",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 5712833750,
+  "jobId": "d15bdfbd-0e01-443b-8e7e-6f3b4d843d97",
+  "join": "roblox://placeId=5712833750&gameInstanceId=d15bdfbd-0e01-443b-8e7e-6f3b4d843d97",
   "follow": "roblox://followUserId=8315231560",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763918685799
+  "web": "https://www.roblox.com/games/start?placeId=5712833750&gameInstanceId=d15bdfbd-0e01-443b-8e7e-6f3b4d843d97",
+  "location": "🎃 Animal Simulator",
+  "updatedAt": 1763918745758
 }
