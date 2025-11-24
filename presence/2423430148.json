@@ -1,12 +1,12 @@
 {
   "userId": 2423430148,
   "displayName": "WhosGaston",
-  "status": "in-game",
-  "placeId": 189707,
-  "jobId": "070bcf19-87b3-4f04-bfb9-c21aab333fbc",
-  "join": "roblox://placeId=189707&gameInstanceId=070bcf19-87b3-4f04-bfb9-c21aab333fbc",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=2423430148",
-  "web": "https://www.roblox.com/games/start?placeId=189707&gameInstanceId=070bcf19-87b3-4f04-bfb9-c21aab333fbc",
-  "location": "Natural Disaster Survival",
-  "updatedAt": 1764007325066
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1764007355045
 }
