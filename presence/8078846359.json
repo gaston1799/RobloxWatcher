@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 8712817601,
-  "jobId": "fc066973-f702-4d7f-8748-97bc23f2d809",
-  "join": "roblox://placeId=8712817601&gameInstanceId=fc066973-f702-4d7f-8748-97bc23f2d809",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=8712817601&gameInstanceId=fc066973-f702-4d7f-8748-97bc23f2d809",
-  "location": "BARRY'S PRISON RUN! (OBBY)",
-  "updatedAt": 1763952873064
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763953106108
 }
