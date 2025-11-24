@@ -1,12 +1,12 @@
 {
   "userId": 4383361224,
   "displayName": "Delusional",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 136253801690395,
+  "jobId": "2431d1f0-605a-4375-b081-5ab89acc17ba",
+  "join": "roblox://placeId=136253801690395&gameInstanceId=2431d1f0-605a-4375-b081-5ab89acc17ba",
   "follow": "roblox://followUserId=4383361224",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763985061002
+  "web": "https://www.roblox.com/games/start?placeId=136253801690395&gameInstanceId=2431d1f0-605a-4375-b081-5ab89acc17ba",
+  "location": "Clicky Keyboard Tower",
+  "updatedAt": 1763985120816
 }
