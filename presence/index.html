@@ -260,20 +260,23 @@
           .split('/')
           .filter(Boolean);
 
-        const inferredOwner = window.location.hostname.endsWith('.github.io')
-          ? window.location.hostname.replace('.github.io', '')
-          : ownerOverride || 'gaston1799';
-        const inferredRepo = pathParts[0] || repoOverride || 'RobloxWatcher';
-        const inferredDir = dirOverride || pathParts.slice(1, -1).join('/') || 'presence';
+        const inferredOwner = ownerOverride ||
+          (window.location.hostname.endsWith('.github.io') ? window.location.hostname.replace('.github.io', '') : null);
+        const inferredRepo = repoOverride || (pathParts.length ? pathParts[0] : null);
+        const inferredDir = dirOverride || (pathParts.length > 1 ? pathParts.slice(1, -1).join('/') : '') || 'presence';
         const inferredBranch = branchOverride || 'main';
 
-        const rawBase = `https://raw.githubusercontent.com/${ownerOverride || inferredOwner}/${repoOverride || inferredRepo}/${
-          branchOverride || inferredBranch
-        }`;
+        if (!inferredOwner || !inferredRepo) {
+          loader.style.display = 'none';
+          showAlert('Missing owner/repo. Add ?owner=<user>&repo=<name> (and optional branch/dir) to the URL.', true);
+          return;
+        }
+
+        const rawBase = `https://raw.githubusercontent.com/${inferredOwner}/${inferredRepo}/${inferredBranch}`;
         const rawPath = inferredDir ? `${inferredDir}/${userId}.json` : `${userId}.json`;
         const rawUrl = `${rawBase}/${rawPath}`;
 
-        const repoUrl = `https://github.com/${ownerOverride || inferredOwner}/${repoOverride || inferredRepo}`;
+        const repoUrl = `https://github.com/${inferredOwner}/${inferredRepo}`;
 
         const loader = document.getElementById('loader');
         const meta = document.getElementById('meta');
