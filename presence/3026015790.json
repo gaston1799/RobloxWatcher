@@ -1,12 +1,12 @@
 {
   "userId": 3026015790,
   "displayName": "KAOsxAKT_Kitkat",
-  "status": "online",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 8457392226,
+  "jobId": "b434346c-b41e-4f9f-ab38-826945de19ba",
+  "join": "roblox://placeId=8457392226&gameInstanceId=b434346c-b41e-4f9f-ab38-826945de19ba",
   "follow": "roblox://followUserId=3026015790",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1764002314919
+  "web": "https://www.roblox.com/games/start?placeId=8457392226&gameInstanceId=b434346c-b41e-4f9f-ab38-826945de19ba",
+  "location": "🍴 [SPAGHETTI] RH Dance Studio",
+  "updatedAt": 1764002825260
 }
