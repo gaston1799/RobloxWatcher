@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 537413528,
-  "jobId": "6853c84d-5362-48a2-b422-c470476b9470",
-  "join": "roblox://placeId=537413528&gameInstanceId=6853c84d-5362-48a2-b422-c470476b9470",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=537413528&gameInstanceId=6853c84d-5362-48a2-b422-c470476b9470",
-  "location": "Build A Boat For Treasure",
-  "updatedAt": 1764006456902
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1764006486831
 }
