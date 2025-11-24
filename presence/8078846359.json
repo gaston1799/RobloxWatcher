@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 80648800578674,
-  "jobId": "3ba1efbc-b5db-40d5-a8df-6a750aa2a3e3",
-  "join": "roblox://placeId=80648800578674&gameInstanceId=3ba1efbc-b5db-40d5-a8df-6a750aa2a3e3",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=80648800578674&gameInstanceId=3ba1efbc-b5db-40d5-a8df-6a750aa2a3e3",
-  "location": "[UPD] Poison Drinks",
-  "updatedAt": 1764008826220
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1764009006414
 }
