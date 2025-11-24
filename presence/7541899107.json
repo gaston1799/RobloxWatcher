@@ -1,12 +1,12 @@
 {
   "userId": 7541899107,
   "displayName": "TheGlitchQueen",
-  "status": "in-game",
-  "placeId": 89156587801460,
-  "jobId": "8e204029-845b-4be0-9d44-d2412627e4af",
-  "join": "roblox://placeId=89156587801460&gameInstanceId=8e204029-845b-4be0-9d44-d2412627e4af",
+  "status": "offline",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=7541899107",
-  "web": "https://www.roblox.com/games/start?placeId=89156587801460&gameInstanceId=8e204029-845b-4be0-9d44-d2412627e4af",
-  "location": "Escape Rising LAVA!🔥",
-  "updatedAt": 1763979689671
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1763980081105
 }
