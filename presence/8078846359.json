@@ -1,12 +1,12 @@
 {
   "userId": 8078846359,
   "displayName": "XxDaniellordexX",
-  "status": "in-game",
-  "placeId": 4972091010,
-  "jobId": "e887444c-045b-439e-981c-932e7fb684b5",
-  "join": "roblox://placeId=4972091010&gameInstanceId=e887444c-045b-439e-981c-932e7fb684b5",
+  "status": "online",
+  "placeId": null,
+  "jobId": null,
+  "join": null,
   "follow": "roblox://followUserId=8078846359",
-  "web": "https://www.roblox.com/games/start?placeId=4972091010&gameInstanceId=e887444c-045b-439e-981c-932e7fb684b5",
-  "location": "Zombie Uprising",
-  "updatedAt": 1764009249524
+  "web": null,
+  "location": "Website",
+  "updatedAt": 1764009277758
 }
