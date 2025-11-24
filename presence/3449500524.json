@@ -1,12 +1,12 @@
 {
   "userId": 3449500524,
   "displayName": "GOJOYT",
-  "status": "offline",
-  "placeId": null,
-  "jobId": null,
-  "join": null,
+  "status": "in-game",
+  "placeId": 98822563352810,
+  "jobId": "9f7288a3-1847-4d68-9be1-001256eb698c",
+  "join": "roblox://placeId=98822563352810&gameInstanceId=9f7288a3-1847-4d68-9be1-001256eb698c",
   "follow": "roblox://followUserId=3449500524",
-  "web": null,
-  "location": "Website",
-  "updatedAt": 1763951724471
+  "web": "https://www.roblox.com/games/start?placeId=98822563352810&gameInstanceId=9f7288a3-1847-4d68-9be1-001256eb698c",
+  "location": "Damage simulator test map",
+  "updatedAt": 1763952114077
 }
